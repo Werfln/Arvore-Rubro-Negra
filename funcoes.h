@@ -3,7 +3,7 @@
 #ifndef FUNCOES_H
 #define FUNCOES_H
 
-//DETALHE: 'V' significa vermelho e 'N' significa negro
+//DETALHE: 'V' significa vermelho e 'N' significa negro.
 
 
 //Estrutura dos nós da árvore rubro-negra
